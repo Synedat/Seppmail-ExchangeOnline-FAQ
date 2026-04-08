@@ -64,7 +64,3 @@ Incoming *.onmicrosoft.com e-mails (from an SEPPmail-unknown external sender) ne
 bob@contosoeu.onmicrosoft.com ==> SEPPmail.cloud ==> alice@fabrikam.com must work.
 
 We hope that this explanaition helps to understand the wide range of issues and forces you to configure your accepted domains correctly.
-
----
-
-Published by Synedat as a partner resource for the SEPPmail ecosystem. See also https://www.synedat.com/ and docs/SEPPMAIL-REFERENCES.md

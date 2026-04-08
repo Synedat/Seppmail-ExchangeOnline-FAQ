@@ -67,7 +67,3 @@ If the SEPPmail transportrules are enabled, E-Mails should now flow through SEPP
 As a cleanup action, you may delete the *seppmail.customerdomain.tld* from your tenant domain list or leave it as an emotional reference to this thrilling support experience with your business e-mail system operator.
 
 If there are any further issues contact us at support@seppmail.de with detailed information about your tenant, the setup you did, an Exchange Online Report and an error description.
-
----
-
-Published by Synedat as a partner resource for the SEPPmail ecosystem. See also https://www.synedat.com/ and docs/SEPPMAIL-REFERENCES.md

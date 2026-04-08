@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Seppmail-ExchangeOnline-FAQ architecture overview</title>
+  <desc id="desc">Exchange Online integration FAQ, validation and operations patterns for SEPPmail.</desc>
+  <rect width="1200" height="520" fill="#f7fafc"/>
+  <rect x="40" y="40" width="1120" height="440" rx="24" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+  <text x="80" y="105" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827">Seppmail-ExchangeOnline-FAQ</text>
+  <text x="80" y="145" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#4b5563">Exchange Online integration FAQ, validation and operations patterns for SEPPmail.</text>
+  <rect x="90" y="220" width="250" height="120" rx="18" fill="#e0f2fe" stroke="#0284c7"/>
+  <text x="125" y="285" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Access</text>
+  <text x="125" y="315" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#334155">Users, admins, automation</text>
+  <rect x="470" y="220" width="250" height="120" rx="18" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="510" y="285" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Core</text>
+  <text x="510" y="315" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#334155">SEPPmail workflow</text>
+  <rect x="850" y="220" width="250" height="120" rx="18" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="885" y="285" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Ops</text>
+  <text x="885" y="315" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#334155">Logs, checks, evidence</text>
+  <line x1="340" y1="280" x2="470" y2="280" stroke="#64748b" stroke-width="4"/>
+  <polygon points="470,280 455,270 455,290" fill="#64748b"/>
+  <line x1="720" y1="280" x2="850" y2="280" stroke="#64748b" stroke-width="4"/>
+  <polygon points="850,280 835,270 835,290" fill="#64748b"/>
+</svg>

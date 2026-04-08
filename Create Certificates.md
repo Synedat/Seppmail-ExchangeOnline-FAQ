@@ -101,7 +101,3 @@ $org = 'yourcustomdomain.com'
 
 Connect-ExchangeOnline -AppId $appid -Certificate $cert -Organization $org
 ```
-
----
-
-Published by Synedat as a partner resource for the SEPPmail ecosystem. See also https://www.synedat.com/ and docs/SEPPMAIL-REFERENCES.md

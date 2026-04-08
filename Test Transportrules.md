@@ -50,7 +50,3 @@ If the message data file contains a recipient, it can be overwritten with the -r
 - Confirm the rule state. Rules must be in an Enabled state to be evaluated.  When rules are created, they are by default in a Disabled state.
 
 Source: [original blog entry](https://techcommunity.microsoft.com/t5/exchange-team-blog/how-to-troubleshoot-exchange-online-transport-rules-using-the/ba-p/4000219)
-
----
-
-Published by Synedat as a partner resource for the SEPPmail ecosystem. See also https://www.synedat.com/ and docs/SEPPMAIL-REFERENCES.md
