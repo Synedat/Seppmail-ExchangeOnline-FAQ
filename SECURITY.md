@@ -1,35 +1,12 @@
 # Security Policy
 
-## Reporting security issues
+Please do **not** publish secrets, API tokens, certificates, private keys, customer hostnames or tenant-specific identifiers in issues or pull requests.
 
-Please do **not** report security vulnerabilities through public issues.
+## Reporting a vulnerability
+If you discover a security issue in one of these examples, please report it privately to the repository owner before opening a public issue.
 
-If you believe you found:
-
-- a product vulnerability,
-- a configuration weakness with security impact, or
-- a secret accidentally committed to this repository,
-
-please use the responsible support or incident channel of the affected organisation.
-
-## Scope
-
-This repository mainly contains documentation. Even so, the following must never be published here:
-
-- private keys
-- certificates containing private material
-- tenant-specific secrets
-- customer IP allowlists without approval
-- screenshots exposing mail addresses, message IDs, or internal hostnames
-
-## Safe example data
-
-Use only placeholder values such as:
-
-- `contoso.example`
-- `mail.customer.example`
-- `00000000-aaaa-bbbb-cccc-dddeeefff000`
-
-## Synedat partner note
-
-Public partner repositories should remain useful **without exposing customer environments**.
+## Safe usage notes
+- treat all scripts as examples and validate them in a non-production environment first
+- review access scopes, RBAC permissions and firewall rules carefully
+- rotate credentials after testing if a secret was exposed accidentally
+- adapt logging so that no sensitive content is written to console output or log files
